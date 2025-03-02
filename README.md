@@ -12,17 +12,7 @@ Torus knots are classified by two integers, \( p \) and \( q \), which define ho
 ### **Equation Used in the Code**  
 The equation used to generate the Torus Knot in your code is:
 
-\[
-x = (R1 + R2 \cos(pu) + r \cos(v)) \cos(qu)
-\]
-
-\[
-y = r \sin(v) + R2 \sin(pu)
-\]
-
-\[
-z = (R1 + R2 \cos(pu) + r \cos(v)) \sin(qu)
-\]
+![Image](https://github.com/user-attachments/assets/050f3405-ea39-423f-8dd2-389f6016060f)
 
 #### **Breaking Down Each Term:**
 - \( R1 \) and \( R2 \) define the major and minor radii of the torus.
