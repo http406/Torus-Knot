@@ -10,7 +10,7 @@ Torus knots are classified by two integers, \( p \) and \( q \), which define ho
 ---
 
 ### **Equation Used in the Code**  
-The equation used to generate the Torus Knot in your code is:
+The equation used to generate the Torus Knot in this code is:
 
 ![Image](https://github.com/user-attachments/assets/050f3405-ea39-423f-8dd2-389f6016060f)
 
